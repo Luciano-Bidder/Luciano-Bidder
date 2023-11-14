@@ -1,5 +1,9 @@
-### Olá! Eu sou o Elias Luciano Ambrósio👋
 
+### Olá! Eu sou o Elias Luciano Ambrósio👋
+<br>
+Sou alguém que adora tecnologia e está constantemente buscando aprender mais e mais a cada dia que passa, pois eu acredito na importância da aprendizagem contínua para me manter atualizado e relevante neste cenário em constante evolução.
+<br>
+<br>
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://discord.com/channels/@me)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasambrosio4859/featured)
@@ -20,7 +24,7 @@
        <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
        <img align="center" alt="VUE JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
        <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div> <br>
+</div><br>
 Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. A arte de programar consiste na arte de organizar e dominar a complexidade.
 
 ### Formas de Contactos
